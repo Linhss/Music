@@ -19,38 +19,38 @@ const app = {
         {
             name: 'Bánh Mì Không ',
             singer: ' Đạt G - Uyên DU ',
-            path: '/Accset/music/datg-x-duuyen-official-mv.mp3',
-            image:'/Accset/img/banhmikhong.jpg'
+            path: '/music/datg-x-duuyen-official-mv.mp3',
+            image:'/img/banhmikhong.jpg'
         },
         {
             name: 'Lối Nhỏ ',
             singer: ' Đen vâu',
-            path: '/Accset/music/loi-nho-ft-phuong-anh-dao-m-v.mp3',
-            image:'/Accset/img/Loi-nho.jpg'
+            path: 'music/loi-nho-ft-phuong-anh-dao-m-v.mp3',
+            image:'/img/Loi-nho.jpg'
         },
         {
             name: 'Ánh Nắng Của Anh ',
             singer: 'Đức Phúc',
-            path: '/Accset/music/anh-nang-cua-anh-cho-em-den-ngay-mai-ost.mp3',
-            image:'/Accset/img/anh_nang_cua_anh.jpg'
+            path: '/music/anh-nang-cua-anh-cho-em-den-ngay-mai-ost.mp3',
+            image:'/img/anh_nang_cua_anh.jpg'
         },
         {
             name: 'Duyên Mình Lỡ',
             singer: 'Hương Tràm',
-            path: '/Accset/music/duyen-minh-lo-dml-official-mv.mp3',
-            image:'/Accset/img/duyen_minh_lo.jpg'
+            path: '/music/duyen-minh-lo-dml-official-mv.mp3',
+            image:'/img/duyen_minh_lo.jpg'
         },
         {
             name: 'Làm Người Yêu Anh Nhé BaBy',
             singer: 'Ba Chú Bộ Đội',
-            path: '/Accset/music/ba-chu-bo-doi-audio.mp3',
-            image:'/Accset/img/bboc.jpg'
+            path: '/music/ba-chu-bo-doi-audio.mp3',
+            image:'/img/bboc.jpg'
         },
         {
             name: 'Mượn Rượi Tỏ Tình Cover',
             singer: 'Thanh Nhi',
-            path: '/Accset/music/bigdaddy-x-emily-thanh-nhi-x-dinh-duy.mp3',
-            image:'/Accset/img/muon_ruou_to_tinh.webp'
+            path: '/music/bigdaddy-x-emily-thanh-nhi-x-dinh-duy.mp3',
+            image:'/img/muon_ruou_to_tinh.webp'
         },
     ],
 
