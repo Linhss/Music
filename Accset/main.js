@@ -19,38 +19,38 @@ const app = {
         {
             name: 'Bánh Mì Không ',
             singer: ' Đạt G - Uyên DU ',
-            path: '/music/datg-x-duuyen-official-mv.mp3',
-            image:'/img/banhmikhong.jpg'
+            path: '/music/banh-mi-khong.mp3',
+            image:'/img/bmk.jpg'
         },
         {
             name: 'Lối Nhỏ ',
             singer: ' Đen vâu',
             path: 'music/loi-nho-ft-phuong-anh-dao-m-v.mp3',
-            image:'/img/Loi-nho.jpg'
+            image:'/img/ln.jpg'
         },
         {
             name: 'Ánh Nắng Của Anh ',
             singer: 'Đức Phúc',
-            path: '/music/anh-nang-cua-anh-cho-em-den-ngay-mai-ost.mp3',
-            image:'/img/anh_nang_cua_anh.jpg'
+            path: '/music/anh-nang-cua-anh.mp3',
+            image:'/img/anca.jpg'
         },
         {
             name: 'Duyên Mình Lỡ',
             singer: 'Hương Tràm',
-            path: '/music/duyen-minh-lo-dml-official-mv.mp3',
+            path: '/music/duyen-minh-lo.mp3',
             image:'/img/duyen_minh_lo.jpg'
         },
         {
             name: 'Làm Người Yêu Anh Nhé BaBy',
             singer: 'Ba Chú Bộ Đội',
-            path: '/music/ba-chu-bo-doi-audio.mp3',
-            image:'/img/bboc.jpg'
+            path: '/music/lam-nguoi-yeu-anh-nhe.mp3',
+            image:'/img/lnyanbb.jpg'
         },
         {
             name: 'Mượn Rượi Tỏ Tình Cover',
             singer: 'Thanh Nhi',
-            path: '/music/bigdaddy-x-emily-thanh-nhi-x-dinh-duy.mp3',
-            image:'/img/muon_ruou_to_tinh.webp'
+            path: '/music/muon-ruou-to-tinh.mp3',
+            image:'/img/mrtt.webp'
         },
     ],
 
