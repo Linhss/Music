@@ -20,37 +20,37 @@ const app = {
             name: 'Bánh Mì Không ',
             singer: ' Đạt G - Uyên DU ',
             path: '/music/banh-mi-khong.mp3',
-            image:'/img/bmk.jpg'
+            image:'/img/bmk.png'
         },
         {
             name: 'Lối Nhỏ ',
             singer: ' Đen vâu',
             path: 'music/loi-nho-ft-phuong-anh-dao-m-v.mp3',
-            image:'/img/ln.jpg'
+            image:'/img/ln.png'
         },
         {
             name: 'Ánh Nắng Của Anh ',
             singer: 'Đức Phúc',
             path: '/music/anh-nang-cua-anh.mp3',
-            image:'/img/anca.jpg'
+            image:'/img/anca.png'
         },
         {
             name: 'Duyên Mình Lỡ',
             singer: 'Hương Tràm',
             path: '/music/duyen-minh-lo.mp3',
-            image:'/img/duyen_minh_lo.jpg'
+            image:'/img/duyen_minh_lo.png'
         },
         {
             name: 'Làm Người Yêu Anh Nhé BaBy',
             singer: 'Ba Chú Bộ Đội',
             path: '/music/lam-nguoi-yeu-anh-nhe.mp3',
-            image:'/img/lnyanbb.jpg'
+            image:'/img/lnyanbb.png'
         },
         {
             name: 'Mượn Rượi Tỏ Tình Cover',
             singer: 'Thanh Nhi',
             path: '/music/muon-ruou-to-tinh.mp3',
-            image:'/img/mrtt.webp'
+            image:'/img/mrtt.png'
         },
     ],
 
