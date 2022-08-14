@@ -10,7 +10,7 @@
   }
   
   body {
-    background-image: url(/img/bgr.png);
+    background-image: url(./img/bgr.png);
     background-repeat: no-repeat;
     background-size: cover;
   }
