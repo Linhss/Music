@@ -19,38 +19,38 @@ const app = {
         {
             name: 'Bánh Mì Không ',
             singer: ' Đạt G - Uyên DU ',
-            path: './Accset/music/banh-mi-khong.mp3',
-            image:'./Accset/img/bmk.png'
+            path: './music/banh-mi-khong.mp3',
+            image:'./img/bmk.png'
         },
         {
             name: 'Lối Nhỏ ',
             singer: ' Đen vâu',
-            path: './Accset/music/loi-nho-ft-phuong-anh-dao-m-v.mp3',
-            image:'./Accset/img/ln.png'
+            path: './music/loi-nho-ft-phuong-anh-dao-m-v.mp3',
+            image:'./img/ln.png'
         },
         {
             name: 'Ánh Nắng Của Anh ',
             singer: 'Đức Phúc',
-            path: './Accset/music/anh-nang-cua-anh.mp3',
-            image:'./Accset/img/anca.png'
+            path: './music/anh-nang-cua-anh.mp3',
+            image:'./img/anca.png'
         },
         {
             name: 'Duyên Mình Lỡ',
             singer: 'Hương Tràm',
-            path: './Accset/music/duyen-minh-lo.mp3',
-            image:'./Accset/img/duyen_minh_lo.png'
+            path: './music/duyen-minh-lo.mp3',
+            image:'./img/duyen_minh_lo.png'
         },
         {
             name: 'Làm Người Yêu Anh Nhé BaBy',
             singer: 'Ba Chú Bộ Đội',
-            path: './Accset/music/lam-nguoi-yeu-anh-nhe.mp3',
-            image:'./Accset/img/lnyanbb.png'
+            path: './music/lam-nguoi-yeu-anh-nhe.mp3',
+            image:'./img/lnyanbb.png'
         },
         {
             name: 'Mượn Rượi Tỏ Tình Cover',
             singer: 'Thanh Nhi',
-            path: './Accset/music/muon-ruou-to-tinh.mp3',
-            image:'./Accset/img/mrtt.png'
+            path: './music/muon-ruou-to-tinh.mp3',
+            image:'./img/mrtt.png'
         },
     ],
 
