@@ -52,6 +52,18 @@ const app = {
             path: './music/muon-ruou-to-tinh.mp3',
             image:'./img/mrtt.png'
         },
+        {
+            name: 'Chúng Ta Của Hiện Tại',
+            singer: 'Sơn Tung MTP',
+            path: './music/tp-lofi-nhe-nhang.mp3',
+            image:'./img/chung-ta-cua-hien-tai.jpg'
+        },
+        {
+            name: 'Thất Tình',
+            singer: 'Trịnh Đình Quang',
+            path: './music/trinh-dinh-quang-official-mv-tt.mp3',
+            image:'./img/maxresdefault.jpg'
+        },
     ],
 
     render: function () {
